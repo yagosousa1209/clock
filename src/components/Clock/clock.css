@@ -1,0 +1,14 @@
+.clock {
+    text-align: center;
+}
+.clock p {
+    font-size: 4rem;
+}
+
+.clock.light {
+    color: #0d0c18;
+}
+
+.clock.dark {
+    color: #f1faee;
+}

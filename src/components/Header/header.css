@@ -1,0 +1,17 @@
+.header  {
+    background-color: #181828;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header h3 {
+    color: #FFF;
+}
+
+.header button {
+    cursor: pointer;
+    background-color: #181828;
+    color: #fff;
+    font-size: 2rem;
+    border: none;
+}
